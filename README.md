@@ -1,7 +1,7 @@
 Portafolio
 ==========
 
-Maquetado realizado e una página web estática (portafolio/currículum Vitae Web) 
+Maquetado realizado en una página web estática (portafolio/currículum Vitae Web) 
 -------------------------------------------------------------------------------
 
 Este es un pequeño portafolio realizado en el editor de texto Visual Studio Code 
