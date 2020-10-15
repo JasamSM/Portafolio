@@ -1,0 +1,61 @@
+  
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mi Portafolio</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <section class="box">
+            <img src="img/jb.jpg.jpg" width="280" alt="" class="box-img">
+            <h1>Javier Santiago Monjaraz</h1>
+            <h2>Lic. En Gestión Pública y Gobierno</h2> <img src="img/a.jpg" height="150" width="150">
+            <h3>Currículum Vitae Funcional</h3>
+
+            <fieldset>
+            <legend> DATOS PERSONALES </legend>
+            <ul>
+            <li> NOMBRE: Javier Santiago Monjaraz </li>
+            <li> LUGAR Y FECHA DE NACIMIENTO: Barrio del Río, Santo Domingo de Morelos, 11 de julio de 1998. </li>
+            <li> CURP: SAMJ980711HOCNNV09 </li>
+            <li> NACIONALIDAD: Mexicana </li>
+            <li> ESTADO CIVIL: Soltero </li>
+            <li> DOMICILIO: Santo Domingo de Morelos</li>
+            <li> E-MAIL: xavie1998monsanto@gmail.com </li>
+            <li> TELÉFONO: 9581225634 </li>
+            </ul>
+            </fieldset>
+
+            <fieldset>
+            <legend> FORMACIÓN ACADÉMICA </legend>
+            <ul>
+            <li> 2017-2020 Licenciatura en Gestión Pública y Gobierno</li>
+            <li> 2017-2022 Ingeniería en Sistemas Computacionales</li>
+            <ul>
+            </fieldset>
+
+            <fieldset>
+            <legend> HABILIDADES Y LOGROS </legend>
+            <ul>
+            <li> *Proteger las leyes de las personas y de las empresas </li>
+            <li> *Habilidad en manejo personal y coordinación de actividades </li>
+            <li> *Facilidad para convenir acuerdos con las personas </li>
+                </ul>
+                 </fieldset>
+
+
+                 <fieldset>  
+            <legend> EXPERIENCIA PROFESIONAL </legend>
+            <ul>
+            <li> 2017-2019 (INEGI) Candidato a codificador San Juan Del Agua, No. 503, Col. Centro, Oaxaca, Oax. </li>  
+                    </ul>
+                     </fieldset>
+
+                    
+
+
+        </section>
+    </body>
+</html>
